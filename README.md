@@ -9,7 +9,7 @@
 6. Check the box for "Output replaces selected text".
 7. Drag the "Run Shell Script" action to the right side, and select "/usr/local/bin/python" or "/usr/local/bin/python3" as the shell depending on your Python version.
 8. Set "Pass input" to "stdin".
-9. Copy and paste the code from the translate.py file, and replace [YOUR OPENAI API KEY] with your OpenAI API Key. You can also change the language you wish to translate to, the amount of max tokens, the model, and the temperature.
+9. Copy and paste the code from the translate.py file, and replace [YOUR OPENAI API KEY] with your OpenAI API Key. You can also change the language you wish to translate to.
 10. Save the Quick Action, and it should now show up as a right-click option when you select text in any application.
 
 ### Screenshots
